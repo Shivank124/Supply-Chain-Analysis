@@ -5,4 +5,4 @@ In the section below, I will take you through the task of Supply Chain Analysis 
 # Summary  
 Supply Chain Analysis means analyzing various components of a Supply Chain to understand how to improve the effectiveness of the Supply Chain to create more value for customers. I hope you liked this article on Supply Chain Analysis using Python.  
 # Note:  
-I order to view the plotly figures paste the notebook link in of github to https://nbviewer.org/.
+I order to view the plotly figures paste the notebook link of github to https://nbviewer.org/.
